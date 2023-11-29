@@ -1,0 +1,2 @@
+$('#submitButton').click(addPost)
+render()
